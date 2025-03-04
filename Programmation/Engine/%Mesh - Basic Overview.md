@@ -13,7 +13,7 @@ They are then connected to each other to form triangles. These triangles form a 
 (*3D Artist* will work with **Square Faces** while *Programmers* will work with **Triangles Faces**)
 
 ###### Intermediate
-Each faces of the triangles now need to know where to point to because a triangle as a front (that have a face) and a back (that don't have a face). It's the job of the [[!Normals]](define the front of a face).
+Each faces of the triangles now need to know where to point to because a triangle as a front (that have a face) and a back (that don't have a face). It's the job of the [[!Normals]] to define the front of a face.
 
 To integrate textures to the object, each vertices contain a UV coordinate which define a 2D point on a texture. The texture will wrap itself to the object when rendered.
 **References:**
