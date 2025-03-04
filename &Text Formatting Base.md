@@ -1,4 +1,9 @@
-
+###### My Text Formatting
+```
+! = Empty / ToDo
+? = Not Sure / Learn about it
+% = WIP / Get Back to Work
+```
 ## Paragraphs
 
 To create paragraphs in Markdown, use a **blank line** to separate blocks of text. Each block of text separated by a blank line is treated as a distinct paragraph.

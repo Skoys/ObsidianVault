@@ -11,14 +11,10 @@
             "id": "f2651abcf72e70d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmation/Unreal/!Mesh Creation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "!Mesh Creation"
+              "title": "New tab"
             }
           },
           {
@@ -41,16 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexic.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lexic"
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "de720fa78b72787b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmation/Engine/%Mesh - Basic Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "%Mesh - Basic Overview"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,12 +207,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bf68cb2651167d2",
+  "active": "de720fa78b72787b",
   "lastOpenFiles": [
+    "Programmation/Unreal/%Unreal - Mesh Creation.md",
     "&Text Formatting Base.md",
-    "Programmation/Unreal/!Mesh Creation.md",
     "TODO.md",
+    "Programmation/Engine/%Mesh - Basic Overview.md",
     "Lexic.md",
+    "Programmation/Engine/!Normals.md",
+    "Programmation/Engine",
+    "Programmation/Engine/!Shaders.md",
+    "Programmation/Engine/!Fragment Shaders.md",
+    "Programmation/Engine/!Geometry Shaders.md",
+    "Programmation/Engine/!Vertex Shaders.md",
     "Game Design/!Challenge.md",
     "Programmation.md",
     "Programmation/Unreal",
