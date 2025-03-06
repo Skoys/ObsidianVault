@@ -56,17 +56,18 @@ Create now an **array of *Integers*** and name it "**Triangles**". In it, you wi
 > Why - 2 instead of - 1? It's because of the way we will make the triangle, we will start by the bottom left one to then get the one on the right and the one on top. If we put - 1, it will try to create a triangle where there is no vertice on the top or the right.
 
 > Now create 3 "Add to Triangles"
-> On:
-> X - Put the second loop index multiplied by the cell size 
-> Y - Put the first loop index multiplied by the cell size 
-> Z - 0
-
->The vertices are now created.
+> It will be diffucult to explain simply the little math behind so please see:
 ```
+[[Unreal - Mesh Creation - Triangles.canvas]]
 
+```
+> We now have a triangle for every vertex of our mesh.
+> But we need a second one to close the holes in the mesh. It's easier to work in creation with squares.
+> And it will be easy because, we already have 2 of the 3 vertex needed
 
-
-
+> Now create 3 "Add to Triangles"
+> It will be diffucult to explain simply the little math behind so please see:
+```
 
 
 Ok a cube is cool and all but we need now to correct some errors, it seems that some faces are not in the orientation we want and the textures are not being placed were we want them to be.
