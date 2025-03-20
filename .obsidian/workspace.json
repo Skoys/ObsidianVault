@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation/Engine/%Mesh - Basic Overview.md",
+                "file": "Projects MUST DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "%Mesh - Basic Overview"
+              "title": "Projects MUST DO"
             }
           }
         ],
@@ -210,8 +210,9 @@
   },
   "active": "de720fa78b72787b",
   "lastOpenFiles": [
-    "Programmation/Engine/!Normals.md",
     "Programmation/Engine/%Mesh - Basic Overview.md",
+    "Projects MUST DO.md",
+    "Programmation/Engine/!Normals.md",
     "Programmation/Unreal/%Unreal - Mesh Creation.md",
     "Programmation/Unreal/Unreal - Mesh Creation - Triangles.canvas",
     "&Text Formatting Base.md",
