@@ -8,5 +8,5 @@
 -UI
 -Animations
 
-Penser à faire un notion dessus
-Voir la liste sur papier
+Penser à faire un notion dessus / Non
+Voir la liste sur papier 

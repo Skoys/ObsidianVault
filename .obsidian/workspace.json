@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects MUST DO.md",
+                "file": "My Projects/Rapid Prototyping/1 - Growing Things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects MUST DO"
+              "title": "1 - Growing Things"
             }
           }
         ],
@@ -210,12 +210,19 @@
   },
   "active": "de720fa78b72787b",
   "lastOpenFiles": [
-    "Programmation/Engine/%Mesh - Basic Overview.md",
+    "My Projects/Rapid Prototyping/Ressources/Growing Things - Game Design Document.md",
+    "My Projects/Rapid Prototyping/1 - Growing Things.md",
+    "My Projects/Rapid Prototyping/Ressources",
+    "Link to the Github.md",
+    "&Text Formatting Base.md",
+    "Game Design/!Challenge.md",
+    "My Projects/Rapid Prototyping",
+    "My Projects",
     "Projects MUST DO.md",
+    "Programmation/Engine/%Mesh - Basic Overview.md",
     "Programmation/Engine/!Normals.md",
     "Programmation/Unreal/%Unreal - Mesh Creation.md",
     "Programmation/Unreal/Unreal - Mesh Creation - Triangles.canvas",
-    "&Text Formatting Base.md",
     "TODO.md",
     "Lexic.md",
     "Programmation/Engine",
@@ -223,7 +230,6 @@
     "Programmation/Engine/!Fragment Shaders.md",
     "Programmation/Engine/!Geometry Shaders.md",
     "Programmation/Engine/!Vertex Shaders.md",
-    "Game Design/!Challenge.md",
     "Programmation.md",
     "Programmation/Unreal",
     "Game Design.md",
